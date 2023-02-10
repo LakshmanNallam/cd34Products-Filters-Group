@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.MainDiv {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Lobster';
+  align-items: center;
+}
+.LongCon {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  width: 50%;
+}
+.LowerCon {
+  display: flex;
+  width: 100%;
+
+  min-height: 50vh;
+  justify-content: center;
+}
+.CardsConHolger {
+  width: 70%;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  min-height: 20vh;
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  padding: 13px;
+  align-items: center;
+  border-radius: 13px;
+  width: 35%;
+  margin: 19px;
+}
+.iMGHolder {
+  width: 90%;
+}
+.img {
+  width: 100%;
+}
+.roww {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.holerr {
+  width: 20%;
+}
+.starr {
+  width: 100%;
+}

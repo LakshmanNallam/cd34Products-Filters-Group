@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.LongCon {
+  display: flex;
+  justify-content: center;
+}
+.btmm {
+  border-width: 0px;
+  background-color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.BTnClicked {
+  border-width: 1px;
+  border-color: aqua;
+  border-radius: 6px;
+}
